@@ -1,4 +1,4 @@
-# NodeJS Authenticatin using JWT
+# NodeJS Authentication using JWT
 
 This small API uses JWT to store users login details.
 It also uses bcrypt to store encrypted passwords in the DB
